@@ -91,7 +91,6 @@ MyBikeRent/
 1. **Cloner le dépôt**
    ```bash
    git clone https://github.com/PlasmaMWK/MyBikeRent.git
-   cd ./MyBikeRent
    ```
 
 2. **Créer la base de données**
